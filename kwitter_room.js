@@ -1,14 +1,13 @@
 //adicione o código do seu banco de dados
 const firebaseConfig = {
-  apiKey: "AIzaSyALAnJV1JezO-Bi1RiZAmuLcfCqtgwwppc",
-  authDomain: "kwitterbd-c9b27.firebaseapp.com",
-  databaseURL: "https://kwitterbd-c9b27-default-rtdb.firebaseio.com",
-  projectId: "kwitterbd-c9b27",
-  storageBucket: "kwitterbd-c9b27.appspot.com",
-  messagingSenderId: "765789229419",
-  appId: "1:765789229419:web:1f8efde36d26b887c4bc2e"
+  apiKey: "AIzaSyD3LzSnCBh1xM5OLggQK2nYQlX3NFoh-v4",
+  authDomain: "kwitter-7e9b6.firebaseapp.com",
+  databaseURL: "https://kwitter-7e9b6-default-rtdb.firebaseio.com",
+  projectId: "kwitter-7e9b6",
+  storageBucket: "kwitter-7e9b6.appspot.com",
+  messagingSenderId: "232559567514",
+  appId: "1:232559567514:web:a33cd131f3076014d33523"
 };
-
 //// Inicializar Firebase
 firebase.initializeApp(firebaseConfig);
 
