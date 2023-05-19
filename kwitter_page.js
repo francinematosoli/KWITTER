@@ -1,5 +1,5 @@
 //LINKS DO SEU APP FIREBASE
-const firebaseConfig = {
+var firebaseConfig = {
   apiKey: "AIzaSyD3LzSnCBh1xM5OLggQK2nYQlX3NFoh-v4",
   authDomain: "kwitter-7e9b6.firebaseapp.com",
   databaseURL: "https://kwitter-7e9b6-default-rtdb.firebaseio.com",
